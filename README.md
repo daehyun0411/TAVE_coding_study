@@ -4,11 +4,10 @@
 
 코드 파일의 맨 윗줄에는 문제의 번호와 제목,링크 등을 주석으로 달아 주세요.
 # 저장소 규칙
-- source 폴더 아래에 각자 이름으로 된 폴더를 만듭니다. 
-예제)
-source
-ㄴherineeda
-ㄴdaehyunida
-ㄴjunghyunida
-ㄴdongyunida
+- source 폴더 아래에 각자 이름으로 된 폴더를 만듭니다.<br>
+source </br>
+ㄴ herineeda </br>
+ㄴ daehyunida </br>
+ㄴ junghyunida </br>
+
 - 각자 이름으로 된 폴더 아래에 주차 폴더(week1, week2 ... )를 하나씩 생성해서 하위 파일로 코드를 업로드합니다. 
