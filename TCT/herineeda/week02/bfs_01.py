@@ -32,8 +32,4 @@ for i in range(1,n+1):
 # distance를 조사하여 k와 같은 값이면 출력 k와 같은 값이 하나도 없다면 -1을 출력한다.
 if not cnt:
     print(-1)
-    
-
-
-
-
+#시간초과 ..
